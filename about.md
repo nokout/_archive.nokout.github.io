@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 <div class="post-content">
     <h2 class="sname-main">SAFARNAMA</h2>
 <p>Minimal, Free spirited, Uncluttered Jekyll theme<br />for sharing your awesome stories.</p>

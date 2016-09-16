@@ -33,7 +33,7 @@ html, body {
   font-family: "Lato";
   font-weight: 700;
   letter-spacing: 0.2em;
-  text-align: center;
+  text-align: left;
   padding-top: 4em;
   padding-bottom: 1em;
   font-size: 26px; }
@@ -42,7 +42,7 @@ html, body {
   font-family: "Lato";
   font-weight: 700;
   letter-spacing: 0.5em;
-  text-align: center;
+  text-align: left;
   padding-bottom: 1em;
   font-size: 12px; }
 
@@ -51,7 +51,7 @@ html, body {
 
 .main-title {
   font-size: 52px;
-  text-align: center;
+  text-align: left;
   padding-right: 0.5em;
   padding-left: 0.5em;
   font-family: "Alegreya Sans";
@@ -59,7 +59,7 @@ html, body {
   padding-top: 1em; }
 
 .post-meta {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   font-family: "Alegreya Sans"; }
 
@@ -75,12 +75,12 @@ html, body {
   letter-spacing: 5px;
   padding: 2em;
   padding-bottom: 0.5em;
-  text-align: center; }
+  text-align: left; }
 
 .post-box {
   font-family: "Alegreya Sans";
   letter-spacing: 2px;
-  text-align: center;
+  text-align: left;
   padding: 1em; }
 
 .post-title {
@@ -160,7 +160,7 @@ a:hover {
   color: powderblue; }
 
 .navigation {
-  text-align: center;
+  text-align: left;
   padding-top: 6em;
   text-transform: uppercase;
   font-family: "Lato";
