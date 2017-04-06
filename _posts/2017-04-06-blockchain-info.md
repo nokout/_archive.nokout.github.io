@@ -5,13 +5,11 @@ categories: null
 
 ---
 
-# Introduction
-
 The following is a modified version of a brief I wrote for Dept Of Human Services (Commonwealth of Australia) about blockchain. I am sharing this to provide descriptions of what I think are the key concepts. I am by no means an expert on the subject but it should provide a reasonable basis understanding blockchain and its utility.
 
 <!--more-->
 
-## Contents:
+# Contents:
 
 - [Whats in a blockchain?](#whats-in-a-blockchain)
 - [Whats it for?](#whats-it-for)
@@ -63,16 +61,16 @@ If a technical approach does not meet these characteristics it is debatable if i
 
 **Provides Provenance >>** The combination of the above also means that a blockchain implementation provides provenance for all transactions on the chain.
 
-### _...However_
+## _...However_
 
 As with many popular and developing technical concepts it is difficult to maintain hard boundaries around its definition as constant related creations, modifications, extensions and adaptations continue. It is also important to note that the blockchain term is starting to gain value as a marketing term and this may contribute to increased ambiguity in the definition.
 
-## Performance
+# Performance
 It is also important to consider the performance constraints of blockchain based solution. It is highly likely that where some of th blockchain characteristics are not required (e.g. if a truly distribute solution is not needed), more performant solutions will be availabl through existing technologies.
 
 The reasons for this are discussed further in the Technical sections of this document.
 
-## Using it
+# Using it
 When considering blockchain the principle ["not everything possible is also is practical, and possibly not even desirable"](https://www2.deloitte.com/content/dam/Deloitte/au/Images/infographics/au-deloitte-technology-bitcoin-blockchain-distributed-ledgers-180416.pdf) is very appropriate and reminds us that it is important to consider the characteristics of blockchain in order to assess use cases.
 
 A clear candidate for a blockchain solution will:
@@ -107,7 +105,7 @@ Applications of Blockchain are also still very immature and there is little stan
 
 There is also a risk with regard to how much a process can be disrupted with blockchain while not falling foul of regulatory requirements which are commonly based on the existence of an authoritative entity. This is especially the case for financial and law applications which are otherwise highly suited to the blockchain approach.
 
-## The likely future
+# The likely future
 The future for blockchain is not easily assessed. There is a spectrum of projects underway across the world which range from highly speculative but massively disruptive, to applications which are more specific and conformist to current norms.
 
 Examples of the highly disruptive end of the spectrum are [Ethereum](https://ethereum.org/) and [IPFS](https://ipfs.io/) which aim to fundamentally change the way the web works.
