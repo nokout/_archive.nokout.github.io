@@ -9,11 +9,11 @@ permalink: /resume/
 >**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and speciallising in geospatial.**
 
 ## Contact Information
-> Geelong, Victoria  
-> **Email:** nigel.okeefe@gmail.com  
+> **Location:** [Geelong, Victoria](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
+> **Email:** [{{ site.email }}](mailto:{{site.email}})   
 > **Mobile:** 0418 556 653  
-> **Twitter:** @nokout_  
-> **Github:** nokout  
+> **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
+> **Github:** [{{site.github_username}}](http://github.com/{{site.github_username}})  
 
 ## Technical Skills
 I have implemented complex enterprise solutions using the follow technologies, creating highly efficient solutions that support large data and transaction volumes. I am able to lead any implementation working with these technologies:
