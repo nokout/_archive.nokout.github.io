@@ -3,9 +3,6 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-
-# Nigel Paul O’Keefe
-
 >**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and speciallising in geospatial.**
 
 ## Contact Information
