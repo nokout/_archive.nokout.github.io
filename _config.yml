@@ -24,7 +24,8 @@ github_username:  nokout
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
+#theme: minima
 gems:
   - jekyll-feed
 exclude:
