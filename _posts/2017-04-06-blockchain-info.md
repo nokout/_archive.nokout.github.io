@@ -1,31 +1,34 @@
 ---
 layout: post
-title: Blockchain
+title: Blockchain introduction and concepts
 categories: null
+
 ---
 
-## Introduction
+# Introduction
 
 The following is a modified version of a brief I wrote for Dept Of Human Services (Commonwealth of Australia) about blockchain. I am sharing this to provide descriptions of what I think are the key concepts. I am by no means an expert on the subject but it should provide a reasonable basis understanding blockchain and its utility.
 
-### Contents:
- - [Whats in a blockchain?](#whats-in-a-blockchain)
- - [Whats it for?](#whats-it-for)
- - [When is a thing Blockchain](#when-is-a-thing-blockchain)
- - [Performance](#performance)
- - [Using it](#using-it)
- - [Failures and Risks](#failures-and-risks)
- - [The likely future](#the-likely-future)
- - [Key Blockchain Technical Components](#key-blockchain-technical-components)
- - [Distributed Ledger](#distributed-ledger)
- - [Transaction Signing](#transaction-signing)
- - [Transaction Ordering](#transaction-ordering)
- - [Transaction Schemas and Smart Contracts](#transaction-schemas-and-smart-contracts)
- - [Transaction Confirmation](#transaction-confirmation)
- - [References and Sources](#references-and-sources)
+<!--more-->
 
+## Contents:
 
-## Whats in a blockchain?
+- [Whats in a blockchain?](#whats-in-a-blockchain)
+- [Whats it for?](#whats-it-for)
+- [When is a thing Blockchain](#when-is-a-thing-blockchain)
+- [Performance](#performance)
+- [Using it](#using-it)
+- [Failures and Risks](#failures-and-risks)
+- [The likely future](#the-likely-future)
+- [Key Blockchain Technical Components](#key-blockchain-technical-components)
+- [Distributed Ledger](#distributed-ledger)
+- [Transaction Signing](#transaction-signing)
+- [Transaction Ordering](#transaction-ordering)
+- [Transaction Schemas and Smart Contracts](#transaction-schemas-and-smart-contracts)
+- [Transaction Confirmation](#transaction-confirmation)
+- [References and Sources](#references-and-sources)
+
+# Whats in a blockchain?
 
 The term blockchain comes from the following elements:
 
@@ -34,29 +37,43 @@ The term blockchain comes from the following elements:
 
 At an implementation level blockchain reuses many existing advanced computer science concepts and adds to this the "big-deal" innovation which is an implementation for "distributed consensus". This is the key component which makes blockchain truly innovative.
 
-## Whats it for?
+# Whats it for?
 
 There are several analogies that are useful to describe blockchain but the most prevalent is the general ledger concept from accounting practices. This is apt because at its core, blockchain is about managing the "transaction" of "assets" between "accounts" (however what a transaction, asset and account are in this context is more flexible than the well-known norms). Given this, it is not a surprise that the elements of blockchain were first laid out in the implementation of the virtual currency [Bitcoin](https://bitcoin.org/bitcoin.pdf).
 
-A software based general ledger is nothing new though, it was one of the early areas addressed by computers. The excitement around `blockchain is that it enables the additional feature of the general ledger being shared and distributed. This means that there is no central controlling entity so "[It provides a way to verify the order in which entries are made to a ledger, without any centralized authority](https://www.constellationr.com/blog-news/blockchain-almost-everything-you-read-wrong)".
+A software based general ledger is nothing new though, it was one of the early areas addressed by computers. The excitement around blockchain is that it enables the additional feature of the general ledger being shared and distributed. This means that there is no central controlling entity so "[It provides a way to verify the order in which entries are made to a ledger, without any centralized authority](https://www.constellationr.com/blog-news/blockchain-almost-everything-you-read-wrong)".
 
 This means business processes which traditionally required a trusted third party such as stock markets, clearing houses or contract settlements can now be potentially reengineered without that trusted third party.
 
-## When is a thing Blockchain
+# When is a thing Blockchain
 
 Even though there is no globally accepted definition for blockchain, the following characterisations are fairly consistent across various authoritative discussions regarding blockchain.
 
 If a technical approach does not meet these characteristics it is debatable if it meets current norms for the definition of blockchain.
 
+**Shared and Fully Distributed >>** Blockchain supports shared and distributed applications because the blockchain is dispersed over the network of interconnected computers of all participants with no central control or authority.
+
+**Egalitarian >>** The egalitarian aspect of blockchain makes it so that entities participating the in the blockchain are treated equally at a technical level. This is probably the least critical characteristic and is weakened in some applications of blockchain, but it is present in some fashion for all the implementations researched.
+
+**Append Only >>** The way blockchain is implemented means that it is strictly append-only. The only way information can be contributed to a blockchain is by adding it to the end.
+
+**Provides Consensus >>** Providing consensus is a key role of the blockchain. This ensures that all participants in the blockchain are in agreement about the state of it. The mechanism to reach consensus varies.
+
+**Immutable & Final >>** Once the participants in a blockchain network reach consensus about the blockchain state, there is no mechanism to retrospectively alter it.
+
+**Provides Provenance >>** The combination of the above also means that a blockchain implementation provides provenance for all transactions on the chain.
+
+## _...However_
+
 As with many popular and developing technical concepts it is difficult to maintain hard boundaries around its definition as constant related creations, modifications, extensions and adaptations continue. It is also important to note that the blockchain term is starting to gain value as a marketing term and this may contribute to increased ambiguity in the definition.
 
-## Performance
+# Performance
 
 It is also important to consider the performance constraints of blockchain based solution. It is highly likely that where some of th blockchain characteristics are not required (e.g. if a truly distribute solution is not needed), more performant solutions will be availabl through existing technologies.
 
 The reasons for this are discussed further in the Technical sections of this document.
 
-## Using it
+# Using it
 
 When considering blockchain the principle ["not everything possible is also is practical, and possibly not even desirable"](https://www2.deloitte.com/content/dam/Deloitte/au/Images/infographics/au-deloitte-technology-bitcoin-blockchain-distributed-ledgers-180416.pdf) is very appropriate and reminds us that it is important to consider the characteristics of blockchain in order to assess use cases.
 
@@ -80,21 +97,21 @@ Some interesting and informative example use cases:
 - [Digital identity and e-residency](https://e-estonia.com/e-residents/about/)
 - [Finance Notary](http://ausdigital.org/specs/ausdigital-nry/1.0/)
 
-## Failures and Risks
+# Failures and Risks
 
-While it does not appear that any systemic failures have been identified in the blockchain approach, its application does not remove risk and also adds some new risks. Here are some examples of major failures using blockchain technology:
+While it does not appear that any systemic technical failures have been identified in the blockchain approach, its application does not remove all existing risks and also adds some new risks. Here are some examples of major failures using blockchain technology:
 
 - The Ethereum "The DAO hack" exploited how some transactions were coded in one application on the Ethereum blockchain platform. While some currency was brought back under control, the final outcome is still unclear and about USD \$5M is at risk. There is an interesting account of the saga [here](http://www.coindesk.com/ethereum-dao-hacker-getting-away-classic/).
 - There has also been major losses of bitcoin simply because the owner lost their key information which is required to participate in the blockchain. In a [single example](https://news.bitcoin.com/guy-lost-bitcoin-computer-upgrade/) USD $67K was lost.
 - The major Bitcoin exchange Mt Gox went backrupt and \$460 million [dollars disappeared](https://www.wired.com/2014/03/bitcoin-exchange/)
 
-So while blockchain provides the mechanisms to be highly secure and distributed, other factors – including human - are still involved and can be exploited. The other very important point is to consider what happens if things go wrong because blockchain is strongly resistant to being able to appeal to an authority for rectification.
+So while blockchain provides the mechanisms to be highly secure and distributed, other factors – including human - are still involved and can be exploited. The other very important point is to consider what happens if things go wrong because blockchain is strongly resistant to an appeal to authority for rectification.
 
 Applications of Blockchain are also still very immature and there is little standardisation or support from existing software packages. This is particularly pertinent risk when attempting to integrate blockchain solutions into existing systems.
 
 There is also a risk with regard to how much a process can be disrupted with blockchain while not falling foul of regulatory requirements which are commonly based on the existence of an authoritative entity. This is especially the case for financial and law applications which are otherwise highly suited to the blockchain approach.
 
-## The likely future
+# The likely future
 
 The future for blockchain is not easily assessed. There is a spectrum of projects underway across the world which range from highly speculative but massively disruptive, to applications which are more specific and conformist to current norms.
 
@@ -126,7 +143,7 @@ This guarantees that each transaction was produced by who it is purported to be 
 
 The hard problem solved by bitcoin (the original blockchain implementation) is the double spending problem. This problem occurs when a system fails to prevent a user from "spending" - or more generally, transacting – on the same entity multiple times. The common analogy is that if a person writes two cheques for the same amount, but only has sufficient funds for one of these cheques to be paid; the first to be processed by a bank will be paid, and the second will be rejected.
 
-In this analogy the banks decide which cheque will be paid, but because transactions on the blockchain have no intermediating third party another solution is needed.
+In this analogy the banks decide which cheque will be paid, but because transactions on the blockchain have no intermediating third party like the bank, another solution is needed.
 
 The ordering of transactions, within each confirmed block determines the outcome of any attempt to double spend. Guaranteeing that this ordering hasn't been manipulated is achieved through a consensus algorithm. The job of the consensus algorithm is to provide a mathematically provable mechanism to agree on the ordering of transactions.
 
@@ -134,9 +151,9 @@ In Bitcoin and many other algorithms - including Ethereum - the basis of this is
 
 In HyperLedger and ripple this is achieved through variations on the Practical Byzantine Fault Tolerance (PBFT) algorithm which requires that a quorum of nodes provide identical answers to an algorithm. This contrasts with the bitcoin approach because instead of the confirmation being a race between the nodes, each node contributes their answer which is accepted once a quorum is reached.
 
-There are various pros and cons for each approach but it can be said that –thus far - the process of maintaining a distributed mathematically provable consensus has a substantial computational cost.
+There are various pros and cons for each approach but it can be said that - thus far - the process of maintaining a distributed mathematically provable consensus has a substantial computational cost.
 
-Development is also happening around "proof of stake" alternatives to proofs of work and PBFT but no evidence of an accepted solution supporting this approach could be identified. In this approach the principle is that each user would have a weighted stake instead of the flat distribution of stake in other mechanisms.
+Development is also happening around "proof of stake" alternatives to proofs of work and PBFT but no evidence of an accepted solution supporting this approach could be identified at the time of writing. In this approach the principle is that each user would have a weighted stake instead of the flat distribution of stake in other mechanisms.
 
 ## Transaction Schemas and Smart Contracts
 
@@ -168,13 +185,20 @@ It is important to note that this partially relies on a _trusted_ full node wher
 
 While this technical concept is not intrinsic to the operation of most blockchain networks it enables the light nodes feature which is highly suited to low power nodes and "wallet" applications. This concept has also been adapted in powerful ways for some of highly disruptive applications like IPFS.
 
-The Bitcoin Proof Of Work To Build Consensus
+# The Bitcoin Proof Of Work To Build Consensus
 
 The bitcoin proof of work is a task undertaken to cryptographically hash the contents of a block, plus the hash of the previous block, plus an unspecified number. When the output of that function meets a certain criteria it is taken to be solved (e.g. The first 4 characters must be zero). A solution to the proof of work is included in the rules for the bitcoin network treating a block as valid.
 
 Because hash results vary massively with very small inputs to the point of appearing to be random, solving this is computationally expensive.
 
 The following table shows an example of this where the block of transactions is represented by a single string. You can see that changing only the "unspecified number" drastically changes the resulting hash in an unpredictable way. A proof of work is considered solved when this process is continued until the hash value meets the blockchain proof of work rules - like having to start with a certain number of zeros as in bitcoin.
+
+String                                          | Hash
+----------------------------------------------- | ----------------------------------------------------------------
+["This is an example block of transactions", 0] | aeb46ab65625c3c1e577bf6f2733f082712c332b3406e4b06b84326fd7bb7d6e
+["This is an example block of transactions", 1] | 69cf7aa89e06b10de9b5a6255b775fb0ccadf4e4053452daa2f42c763e3b2b28
+["This is an example block of transactions", 2] | 56548b81bc9e08ae6309f451ff23c25337426fc51e85013fc34579c7638f9b71
+["This is an example block of transactions", 3] | cb5358f99a461b299b6ff499f170dab6614ec68ebcc89adde91f8c49e05ee9fe
 
 While solving the proof of work problem is computationally expensive checking the solution is cheap.
 
@@ -218,3 +242,4 @@ Supporting Information:
 - <https://www.wired.com/2014/03/bitcoin-exchange/>
 - <https://www2.deloitte.com/content/dam/Deloitte/au/Images/infographics/au-deloitte-technology-bitcoin-blockchain-distributed-ledgers-180416.pdf>
 - Tookit – Overview of blockchain use cases – Gartner (ID: G00302283)
+- [Ausdigital Contract Notorisation](http://ausdigital.org/specs/ausdigital-nry/1.0/)
