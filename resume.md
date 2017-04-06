@@ -1,12 +1,19 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
 # Nigel Paul O’Keefe
 
 >**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and speciallising in geospatial.**
 
 ## Contact Information
-> Geelong, Victoria
-> Email: nigel.okeefe@gmail.com
-> Mobile: 0418 556 653
-> Twitter: @nokout_
+> Geelong, Victoria  
+> **Email:** nigel.okeefe@gmail.com  
+> **Mobile:** 0418 556 653  
+> **Twitter:** @nokout_  
+> **Github:** nokout  
 
 ## Technical Skills
 I have implemented complex enterprise solutions using the follow technologies, creating highly efficient solutions that support large data and transaction volumes. I am able to lead any implementation working with these technologies:
