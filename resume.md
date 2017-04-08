@@ -6,11 +6,11 @@ permalink: /resume/
 >**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and speciallising in geospatial.**
 
 ## Contact Information
-> **Location:** [Geelong, Victoria](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
-> **Email:** [{{ site.email }}](mailto:{{site.email}})   
-> **Mobile:** 0418 556 653  
-> **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
-> **Github:** [{{site.github_username}}](http://github.com/{{site.github_username}})  
+> **Location:** [Geelong, Victoria](https://www.google.com.au/maps/place/Geelong+VIC+3220)
+> **Email:** [{{ site.email }}](mailto:{{site.email}})
+> **Mobile:** 0418 556 653
+> **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})
+> **Github:** [{{site.github_username}}](http://github.com/{{site.github_username}})
 
 ## Technical Skills
 I have implemented complex enterprise solutions using the follow technologies, creating highly efficient solutions that support large data and transaction volumes. I am able to lead any implementation working with these technologies:
@@ -21,13 +21,13 @@ I have implemented complex enterprise solutions using the follow technologies, c
  - Amazon Web Services (Primarily EC2 and RDS)
  - Git source code control
  - ESRI, Pitney Bowes (Mapinfo) and Geoserver Desktop and Server Geospatial solutions
- - Java application managment in using Tomcat and Websphere webservers
+ - Java application management in using Tomcat and Websphere webservers
  - Markup in XML, JSON, YAML and Markdown
  - Automated testing
  - Software and Database application and architecture design functions
  - Systems Analysis, Business Analysis
 
-I am also confident in progressing solutions in the following based on previous experience or training:  
+I am also confident in progressing solutions in the following based on previous experience or training:
  - Programming Java, C, Visual Basic, Bash shell scripting
  - Amazon Web Services and Google Cloud
  - Subversion source code control
@@ -41,31 +41,31 @@ I am also confident in progressing solutions in the following based on previous 
 ### 2014 to Current | Analyst/Programmer and Assistant Director Dept. Human Services
 I currently have a dual role supporting both the executive leadership of the department with broad analysis of any technical subjects aswell as analysis / programming to provide specific geospatial solutions to management intelligence needs and application capabilities.
 
-As part of my geospatial duties I have developed ongoing solutions to common geospatial needs for the department in addition to completing geospatial analysis tasks as required. I have also continued with previous work in the development new ways to approah the team’s duties and how the team might be better able to deliver services.  
+As part of my geospatial duties I have developed ongoing solutions to common geospatial needs for the department in addition to completing geospatial analysis tasks as required. I have also continued with previous work in the development new ways to approach the team’s duties and how the team might be better able to deliver services.
 
 Examples:
 - Creation of an automated solution to import, combine and harmonise state based data into a national dataset using arcGis model builder.
-- Creation of a python script to interact with exisitng webservices to manipulate geospatial datasets.
-- Development of multiple maps communicating the potential impact of Tropical Cylone Debbie on staff, customers and AGDRP (Australian Government Disaster Recovery Payment) and DRA (Disaster Recovery Allowance) payment support which is delivered by the department.
+- Creation of a python script to interact with existing webservices to manipulate geospatial datasets.
+- Development of multiple maps communicating the potential impact of Tropical Cyclone Debbie on staff, customers and AGDRP (Australian Government Disaster Recovery Payment) and DRA (Disaster Recovery Allowance) payment support which is delivered by the department.
 
 As part of the wider technical analysis role for the division I provide regular briefings on technical subjects raised through the department’s architecture review board and from various other senior executive interactions. Some of the more interesting topics that have been addressed as part of this process include block-chain, machine learning, distributed big data processing and payment eligibility assessment approaches.
 
 Examples:
-- Brief to Deputy Secretary explaining blockchain technology and its charactaristics, contraints, risks and potential use-cases within the department.
+- Brief to Deputy Secretary explaining blockchain technology and its characteristics, constraints, risks and potential use-cases within the department.
 - Provide general manager with a brief of information, considerations and implications regarding biometric authentication, data lakes and replacement of the systems providing income support payments.
 
-Prior to my secondment to the Digital transformation office - for aproximately six months starting in late 201 - I performed the more senior role of director of the geospatial team. This required managing all aspects of the team’s ongoing duties, identifying areas for improvement and providing subject matter expertise in these subjects. A new direction was set for the team focusing on automating and increasing access to geospatial capabilities across the department. This direction is still maintained and I continue to support it from my new role including shorter periods of acting in the role when the current director is unavailable.
+Prior to my secondment to the Digital transformation office - for approximately six months starting in late 201 - I performed the more senior role of director of the geospatial team. This required managing all aspects of the team’s ongoing duties, identifying areas for improvement and providing subject matter expertise in these subjects. A new direction was set for the team focusing on automating and increasing access to geospatial capabilities across the department. This direction is still maintained and I continue to support it from my new role including shorter periods of acting in the role when the current director is unavailable.
 
 ### 2015 | Analyst/Programmer - Digital Transformation Office (Secondment)
 I joined the DTO through being offered a secondment. During this time I contributed to the development of a mechanism for the recording of service information from across government, a web-crawler to help understand the current set of government content, a federated digital identity prototype and the school attendance mobile phone application. All this work has been done using modern cloud based technologies and development across the full web stack which I assisted in setting up for the DTO.
 
-I also provided technical advice and analysis to other areas of the DTO including providing input on CRM and CMS solutions, assisting with setting up linux based laptops for developers and have been a key contributor to digital identity and gov.au analysis. My contribution to digital identity, authentication and authorisation has been particularly strong where I have leveraged my very strong background in customer identity with Centrelink and the Department of Human Services.
+I also provided technical advice and analysis to other areas of the DTO including providing input on CRM and CMS solutions, assisting with setting up linux based laptops for developers and have been a key contributor to digital identity and gov.au analysis. My contribution to digital identity, authentication and authorization has been particularly strong where I have leveraged my very strong background in customer identity with Centrelink and the Department of Human Services.
 
 ### 2007 to 2014 |  Senior Systems Analyst/Programmer - Customer Details and Registration - Dept. Human Services
 
 Over 7 years I worked at the Department of Human Services as a Systems Analyst and Programmer. This involved working on various project and maintenance tasks as part of teams looking after staff and customer facing applications with a focus on identity and geospatial. Over this time I became responsible for subject matter expertise in customer addressing, geospatial and matching functionality in conjunction with Technical Managers and Architects.
 
-I also acted in the more senior positions of Solutions Architect and Director as required and have always maintained a close trusted relationshiplocation with more senior staff. This experience has allowed me to develop excellent skills across all phases of the software development lifecycle using appropriate combinations of agile, iterative/incremental and waterfall methodologies.
+I also acted in the more senior positions of Solutions Architect and Director as required and have always maintained a close trusted relationship with more senior staff. This experience has allowed me to develop excellent skills across all phases of the software development lifecycle using appropriate combinations of agile, iterative/incremental and waterfall methodologies.
 
 ### 2004 – 2005 | Mobile Phone specialist at Connect Tel, Geelong - Victoria
 As an extension to Connect Tel’s current customer offering of fixed communications services, I established and developed a Telstra Mobile Phone Dealership specifically for Connect Tel’s business customers. This position required the management of all aspects of a mobile phone dealership including:
