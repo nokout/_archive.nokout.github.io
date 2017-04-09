@@ -20,7 +20,7 @@ I have implemented complex enterprise solutions using the follow technologies, c
  - Docker containers (Although not including automated orchestration)
  - Amazon Web Services (Primarily EC2 and RDS)
  - Git source code control
- - ESRI, Pitney Bowes (Mapinfo) and Geoserver Desktop and Server Geospatial solutions
+ - ESRI, Pitney Bowes (Mapinfo), OpenLayers and Geoserver Desktop and Server Geospatial solutions
  - Java application management in using Tomcat and Websphere webservers
  - Markup in XML, JSON, YAML and Markdown
  - Automated testing
@@ -57,7 +57,7 @@ Examples:
 Prior to my secondment to the Digital transformation office - for approximately six months starting in late 201 - I performed the more senior role of director of the geospatial team. This required managing all aspects of the team’s ongoing duties, identifying areas for improvement and providing subject matter expertise in these subjects. A new direction was set for the team focusing on automating and increasing access to geospatial capabilities across the department. This direction is still maintained and I continue to support it from my new role including shorter periods of acting in the role when the current director is unavailable.
 
 ### 2015 | Analyst/Programmer - Digital Transformation Office (Secondment)
-I joined the DTO through being offered a secondment. During this time I contributed to the development of a mechanism for the recording of service information from across government, a web-crawler to help understand the current set of government content, a federated digital identity prototype and the school attendance mobile phone application. All this work has been done using modern cloud based technologies and development across the full web stack which I assisted in setting up for the DTO.
+I joined the DTO through being offered a secondment. During this time I contributed to the development of a mechanism for the recording of service information from across government, a web-crawler to help understand the current set of government content, a federated digital identity prototype and the school attendance mobile phone application. All this work was done using modern cloud based technologies and development methods across the full web stack which I assisted in setting up for the DTO.
 
 I also provided technical advice and analysis to other areas of the DTO including providing input on CRM and CMS solutions, assisting with setting up linux based laptops for developers and have been a key contributor to digital identity and gov.au analysis. My contribution to digital identity, authentication and authorization has been particularly strong where I have leveraged my very strong background in customer identity with Centrelink and the Department of Human Services.
 
