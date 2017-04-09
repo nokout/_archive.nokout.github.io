@@ -13,7 +13,7 @@ The following is a modified version of a brief I wrote for Dept Of Human Service
 
 - [Whats in a blockchain?](#whats-in-a-blockchain)
 - [Whats it for?](#whats-it-for)
-- [When is a thing Blockchain](#when-is-a-thing-blockchain)
+- [When is a thing Blockchain?](#when-is-a-thing-blockchain)
 - [Performance](#performance)
 - [Using it](#using-it)
 - [Failures and Risks](#failures-and-risks)
@@ -43,7 +43,7 @@ A software based general ledger is nothing new though, it was one of the early a
 
 This means business processes which traditionally required a trusted third party such as stock markets, clearing houses or contract settlements can now be potentially reengineered without that trusted third party.
 
-# When is a thing Blockchain
+# When is a thing Blockchain?
 
 Even though there is no globally accepted definition for blockchain, the following characterisations are fairly consistent across various authoritative discussions regarding blockchain.
 

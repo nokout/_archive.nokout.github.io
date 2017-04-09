@@ -1,0 +1,4 @@
+root = true
+
+[*.md, *.markdown]
+trim_trailing_whitespace = false
