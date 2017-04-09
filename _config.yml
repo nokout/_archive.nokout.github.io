@@ -27,6 +27,7 @@ markdown: kramdown
 #theme: jekyll-theme-slate
 theme: minima
 # theme: hacker
+google_analytics: UA-96950482-1
 
 excerpt_separator: <!--more-->
 
