@@ -12,6 +12,9 @@ permalink: /resume/
 > **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
 > **Github:** [{{site.github_username}}](http://github.com/{{site.github_username}})  
 
+## Other Document Formats
+ [Web](http://nokout.github.io/resume) | [Google Doc](https://docs.google.com/document/d/1WYuiQ2Onsv-1NA37a9bKe216mesQsekX4DbpJUl1Jhw/edit?usp=sharing) | [Pdf](https://drive.google.com/open?id=0BwjyMOXdQtKiMUFoOWd5VzZENDA)
+
 ## Technical Skills
 I have implemented complex enterprise solutions using the follow technologies, creating highly efficient solutions that support large data and transaction volumes. I am able to lead any implementation working with these technologies:
  - Web development (including HTML, HTML5, CSS, Javascript, JQuery)
