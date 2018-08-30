@@ -3,10 +3,11 @@ layout: page
 title: Personal Resume
 permalink: /resume/
 ---
->**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and specialising in geospatial.**
+
+>**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and with specialist skills in geospatial.**
 
 ## Contact Information
-> **Location:** [Geelong, Victoria](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
+> **Location:** [Canberra, Australian Capital Territory](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
 > **Email:** [{{ site.email }}](mailto:{{site.email}})  
 > **Mobile:** 0418 556 653  
 > **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
@@ -21,18 +22,18 @@ I have implemented complex enterprise solutions using the follow technologies, c
  - Programming Python, Node (Javascript), SAS, SQL and Model 204 User language/SOUL (A mainframe object database solution)
  - Linux Operating Systems (Mainly Ubuntu and Solaris)
  - Docker containers (Although not including automated orchestration)
- - Amazon Web Services (Primarily EC2 and RDS)
+ - Amazon Web Services
  - Git source code control
+ - Data application development using Hadoop ecosystem with Hive and Impala
  - ESRI, Pitney Bowes (Mapinfo), OpenLayers and Geoserver Desktop and Server Geospatial solutions
- - Java application management in using Tomcat and Websphere webservers
- - Markup in XML, JSON, YAML and Markdown
+ - Markup in XML, JSON, YAML RST, and Markdown
  - Automated testing
  - Software and Database application and architecture design functions
  - Systems Analysis, Business Analysis
 
 I am also confident in progressing solutions in the following based on previous experience or training:
  - Programming Java, C, Visual Basic, Bash shell scripting
- - Amazon Web Services and Google Cloud
+ - Google Cloud
  - Subversion source code control
  - Web frameworks and tools including Angular, React, Ember, Bootstrap
  - Grunt and Gulp automation tools
@@ -41,8 +42,25 @@ I am also confident in progressing solutions in the following based on previous 
 
 
 ## Working Experience / Key Positions
-### 2014 to Current | Analyst/Programmer and Assistant Director Dept. Human Services
-I currently have a dual role supporting both the executive leadership of the department with broad analysis of any technical subjects aswell as analysis / programming to provide specific geospatial solutions to management intelligence needs and application capabilities.
+
+### 2018 | Technical Lead and Assistant Director - Dept. Human Services
+Upon returning to the Department of Human Services I was asked to assist with the development of a departmental Datamart utilizing a new Cloudera installation. As part of this I assisting with desigining and implementing a development pattern. This involved developing data pipelines working with Sqoop, Python, HIVE and Impala and developing some scala User Defined Functions (UDFs).
+
+This has also required a strong focus on developing appropriate metadata to support discovering and understanding data within the datamart. As part of this I developed a process to work with the Cloudera Navigator product and its ReST API.
+
+As part of this development I also successfully advocated for implementing the SCRUM methodology and moving to Gitlab for managing our source code. This has provided improved focus on customer needs, progress visibility, automation and deployment flexibility
+
+
+### 2017 to 2018 | Tech Lead - GoSource
+I spent an exciting 6 months working with GoSource as a technical lead. During this time I learned a huge amount about developing applications using modern cloud platforms and service based architectures.
+
+The primary platform used was Amazon Web Services (AWS) platforms including Lambda, DynamoDB, RDS, EC2, S3 and SMS automated through Github and Jenkins. Using these services I led the development of scalable API driven applications. These applications were written in both Python and Node. Through this I have developed an good understanding of these tools and how they fit into the AWS landscape.
+
+Another important aspect of my time here was supporting the GoSource management and development methodology. GoSource is an enthusiastic supporter of open source, agile methodologies and automation. I have always been supportive of these concepts but being part of applying it as a core organisation priority has given me a much better understanding of how to practically apply these concepts.
+
+### 2014 to Current | Analyst/Programmer and Assistant Director - Dept. Human Services
+
+During this time I had a dual role supporting both the executive leadership of the department with broad analysis of any technical subjects aswell as analysis / programming to provide specific geospatial solutions to management intelligence needs and application capabilities.
 
 As part of my geospatial duties I have developed ongoing solutions to common geospatial needs for the department in addition to completing geospatial analysis tasks as required. I have also continued with previous work in the development new ways to approach the team’s duties and how the team might be better able to deliver services.
 
