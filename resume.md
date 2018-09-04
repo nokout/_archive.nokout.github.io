@@ -26,7 +26,7 @@ I have implemented complex enterprise solutions using the follow technologies, c
  - Git source code control
  - Data application development using Hadoop ecosystem with Hive and Impala
  - ESRI, Pitney Bowes (Mapinfo), OpenLayers and Geoserver Desktop and Server Geospatial solutions
- - Markup in XML, JSON, YAML RST, and Markdown
+ - Markup in XML, JSON, YAML, RST and Markdown
  - Automated testing
  - Software and Database application and architecture design functions
  - Systems Analysis, Business Analysis
@@ -52,7 +52,7 @@ This has also required a strong focus on developing appropriate metadata to supp
 
 While still not complete the solution is well into implementation and is expected to deliver a highly automated data pipeline with metadata attached to all steps and automatic updating of reporting products.
 
-As part of this development I also successfully advocated for implementing the SCRUM methodology and moving to Gitlab for managing our source code. This has provided improved focus on customer needs, progress visibility, automation and deployment flexibility.
+As part of this development I also successfully advocated for implementing the SCRUM methodology and moving to Gitlab for managing our source code and development tasks. This has provided improved focus on customer needs, progress visibility, automation and deployment flexibility.
 
 
 ### 2017 to 2018 | Tech Lead - GoSource
