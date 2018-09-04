@@ -44,19 +44,26 @@ I am also confident in progressing solutions in the following based on previous 
 ## Working Experience / Key Positions
 
 ### 2018 | Technical Lead and Assistant Director - Dept. Human Services
-Upon returning to the Department of Human Services I was asked to assist with the development of a departmental Datamart utilizing a new Cloudera installation. As part of this I assisting with desigining and implementing a development pattern. This involved developing data pipelines working with Sqoop, Python, HIVE and Impala and developing some scala User Defined Functions (UDFs).
+Upon returning to the Department of Human Services I was asked to assist with the development of a departmental Datamart utilising a new Cloudera (Hadoop Ecosystem) installation.
 
-This has also required a strong focus on developing appropriate metadata to support discovering and understanding data within the datamart. As part of this I developed a process to work with the Cloudera Navigator product and its ReST API.
+I assisted with designing and implementing a development pattern which resulted in data pipelines that use Sqoop, Oozie, Python, HIVE and Impala technology.
 
-As part of this development I also successfully advocated for implementing the SCRUM methodology and moving to Gitlab for managing our source code. This has provided improved focus on customer needs, progress visibility, automation and deployment flexibility
+This has also required a strong focus on developing appropriate metadata to support users discovering and understanding data within the datamart. To achieve this I developed a process to work with the Cloudera Navigator product and it's ReST API using Python.
+
+While still not complete the solution is well into implementation and is expected to deliver a highly automated data pipeline with metadata attached to all steps and automatic updating of reporting products.
+
+As part of this development I also successfully advocated for implementing the SCRUM methodology and moving to Gitlab for managing our source code. This has provided improved focus on customer needs, progress visibility, automation and deployment flexibility.
 
 
 ### 2017 to 2018 | Tech Lead - GoSource
 I spent an exciting 6 months working with GoSource as a technical lead. During this time I learned a huge amount about developing applications using modern cloud platforms and service based architectures.
 
-The primary platform used was Amazon Web Services (AWS) platforms including Lambda, DynamoDB, RDS, EC2, S3 and SMS automated through Github and Jenkins. Using these services I led the development of scalable API driven applications. These applications were written in both Python and Node. Through this I have developed an good understanding of these tools and how they fit into the AWS landscape.
+The primary platform used was Amazon Web Services (AWS) platforms including Lambda, DynamoDB, RDS, EC2, S3 and SMS automated through Github and Jenkins.
+
+Using these services I led the development effort for scalable API driven applications. These applications were written in both Python and Node. Through this I have developed a solid understanding of these tools and how they fit into the AWS landscape.
 
 Another important aspect of my time here was supporting the GoSource management and development methodology. GoSource is an enthusiastic supporter of open source, agile methodologies and automation. I have always been supportive of these concepts but being part of applying it as a core organisation priority has given me a much better understanding of how to practically apply these concepts.
+
 
 ### 2014 to Current | Analyst/Programmer and Assistant Director - Dept. Human Services
 
