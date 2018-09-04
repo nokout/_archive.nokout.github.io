@@ -6,15 +6,15 @@ permalink: /resume/
 
 >**Fast learning, self sufficient technical analyst and programmer delivering creative solutions in complex environments and with specialist skills in geospatial.**
 
+## Available As:
+ [Web](http://nokout.github.io/resume) | [Google Doc](https://docs.google.com/document/d/1WYuiQ2Onsv-1NA37a9bKe216mesQsekX4DbpJUl1Jhw/edit?usp=sharing) | [Pdf](https://drive.google.com/open?id=0BwjyMOXdQtKiMUFoOWd5VzZENDA)
+
 ## Contact Information
 > **Location:** [Canberra, Australian Capital Territory](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
 > **Email:** [{{ site.email }}](mailto:{{site.email}})  
 > **Mobile:** 0418 556 653  
 > **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
 > **Github:** [{{site.github_username}}](http://github.com/{{site.github_username}})  
-
-## Other Document Formats
- [Web](http://nokout.github.io/resume) | [Google Doc](https://docs.google.com/document/d/1WYuiQ2Onsv-1NA37a9bKe216mesQsekX4DbpJUl1Jhw/edit?usp=sharing) | [Pdf](https://drive.google.com/open?id=0BwjyMOXdQtKiMUFoOWd5VzZENDA)
 
 ## Technical Skills
 I have implemented complex enterprise solutions using the follow technologies, creating highly efficient solutions that support large data and transaction volumes. I am able to lead any implementation working with these technologies:
