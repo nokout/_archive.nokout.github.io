@@ -10,7 +10,7 @@ permalink: /resume/
  [Web](http://nokout.github.io/resume) | [Google Doc](https://docs.google.com/document/d/1WYuiQ2Onsv-1NA37a9bKe216mesQsekX4DbpJUl1Jhw/edit?usp=sharing) | [Pdf](https://drive.google.com/open?id=0BwjyMOXdQtKiMUFoOWd5VzZENDA)
 
 ## Contact Information
-> **Location:** [Canberra, Australian Capital Territory](https://www.google.com.au/maps/place/Geelong+VIC+3220)  
+> **Location:** [Canberra, Australian Capital Territory](https://www.google.com.au/maps/place/Canberra+ACT+2601)  
 > **Email:** [{{ site.email }}](mailto:{{site.email}})  
 > **Mobile:** 0418 556 653  
 > **Twitter:** [@{{site.twitter_username}}](https://twitter.com/{{site.twitter_username}})  
